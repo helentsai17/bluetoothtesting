@@ -1,0 +1,11 @@
+C:\Users\WRK_PC\source\repos\Blueberry.Desktop.WindowsApp.Bluetooth\Blueberry.Desktop.WindowsApp.Bluetooth\bin\Debug\netcoreapp3.1\Blueberry.Desktop.WindowsApp.Bluetooth.deps.json
+C:\Users\WRK_PC\source\repos\Blueberry.Desktop.WindowsApp.Bluetooth\Blueberry.Desktop.WindowsApp.Bluetooth\bin\Debug\netcoreapp3.1\Blueberry.Desktop.WindowsApp.Bluetooth.dll
+C:\Users\WRK_PC\source\repos\Blueberry.Desktop.WindowsApp.Bluetooth\Blueberry.Desktop.WindowsApp.Bluetooth\bin\Debug\netcoreapp3.1\Blueberry.Desktop.WindowsApp.Bluetooth.pdb
+C:\Users\WRK_PC\source\repos\Blueberry.Desktop.WindowsApp.Bluetooth\Blueberry.Desktop.WindowsApp.Bluetooth\bin\Debug\netcoreapp3.1\Windows.winmd
+C:\Users\WRK_PC\source\repos\Blueberry.Desktop.WindowsApp.Bluetooth\Blueberry.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.1\Blueberry.Desktop.WindowsApp.Bluetooth.csprojAssemblyReference.cache
+C:\Users\WRK_PC\source\repos\Blueberry.Desktop.WindowsApp.Bluetooth\Blueberry.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.1\Blueberry.Desktop.WindowsApp.Bluetooth.AssemblyInfoInputs.cache
+C:\Users\WRK_PC\source\repos\Blueberry.Desktop.WindowsApp.Bluetooth\Blueberry.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.1\Blueberry.Desktop.WindowsApp.Bluetooth.AssemblyInfo.cs
+C:\Users\WRK_PC\source\repos\Blueberry.Desktop.WindowsApp.Bluetooth\Blueberry.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.1\Blueberry.Desktop.WindowsApp.Bluetooth.csproj.CoreCompileInputs.cache
+C:\Users\WRK_PC\source\repos\Blueberry.Desktop.WindowsApp.Bluetooth\Blueberry.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.1\Blueberry.Desktop.WindowsApp.Bluetooth.csproj.CopyComplete
+C:\Users\WRK_PC\source\repos\Blueberry.Desktop.WindowsApp.Bluetooth\Blueberry.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.1\Blueberry.Desktop.WindowsApp.Bluetooth.dll
+C:\Users\WRK_PC\source\repos\Blueberry.Desktop.WindowsApp.Bluetooth\Blueberry.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.1\Blueberry.Desktop.WindowsApp.Bluetooth.pdb
